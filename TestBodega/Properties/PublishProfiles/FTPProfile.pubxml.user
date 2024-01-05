@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJpRwj34oT0CaOimQAkAv2QAAAAACAAAAAAAQZgAAAAEAACAAAAD3T6aAjSZo4PqszoP0T0Awtq6Y+BQ88+V8/VEtkKp8GAAAAAAOgAAAAAIAACAAAACRfKyKlWyyPpfUvSVsd/i2GblFG94BGEWpO+dvvshGASAAAABeSpSoq2AXhUhtkAXKoRoF4OWaD+Njyx4QXL3INTsmp0AAAADiNCMZYLCsUwYDRohWrAd4IARGLdX7xUN7g5DVrm+GMwdLweD4KwZ4LpRWRZ912QvqTMHkSn5UYhvYVZVTLjcX</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.38/www.odin.somee.com</_PublishTargetUrl>
+    <History>False|2023-12-30T15:55:51.9625812Z;True|2023-12-28T21:31:30.3303298-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/06/2023 18:46:06</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>12/14/2023 18:03:11</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>01/16/2023 10:41:56</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>09/30/2022 05:07:30</publishTime>
+    </File>
+    <File Include="cs/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:40</publishTime>
+    </File>
+    <File Include="cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="de/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="de/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="es/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="es/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="fr/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="it/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="it/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="ja/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="ko/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.dll">
+      <publishTime>11/11/2020 19:14:40</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>08/25/2020 18:24:48</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>04/12/2022 17:29:32</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>12/04/2022 17:29:46</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>04/12/2022 17:29:56</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>04/12/2022 17:30:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>10/22/2021 18:48:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>06/15/2021 14:12:46</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/22/2021 18:50:40</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>05/18/2020 15:11:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/18/2019 18:39:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/18/2019 18:40:20</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>10/18/2019 18:41:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>10/18/2019 18:48:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/18/2019 18:43:40</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.ReportViewer.Common.dll">
+      <publishTime>11/17/2023 03:53:38</publishTime>
+    </File>
+    <File Include="Microsoft.ReportViewer.DataVisualization.dll">
+      <publishTime>11/17/2023 03:53:00</publishTime>
+    </File>
+    <File Include="Microsoft.ReportViewer.NETCore.dll">
+      <publishTime>11/17/2023 03:53:52</publishTime>
+    </File>
+    <File Include="Microsoft.ReportViewer.ProcessingObjectModel.dll">
+      <publishTime>11/17/2023 03:52:58</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/20/2017 15:03:18</publishTime>
+    </File>
+    <File Include="pl/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="pt-BR/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="ru/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="System.CodeDom.dll">
+      <publishTime>11/15/2019 03:36:56</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>11/15/2019 03:37:04</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>12/11/2020 21:40:42</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/18/2019 18:38:18</publishTime>
+    </File>
+    <File Include="System.IO.Packaging.dll">
+      <publishTime>11/15/2019 03:37:18</publishTime>
+    </File>
+    <File Include="System.Resources.Extensions.dll">
+      <publishTime>04/14/2020 17:38:52</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>11/15/2019 03:37:36</publishTime>
+    </File>
+    <File Include="System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 18:40:56</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 03:37:42</publishTime>
+    </File>
+    <File Include="TestBodega.deps.json">
+      <publishTime>12/30/2023 10:54:55</publishTime>
+    </File>
+    <File Include="TestBodega.dll">
+      <publishTime>12/30/2023 10:54:45</publishTime>
+    </File>
+    <File Include="TestBodega.exe">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="TestBodega.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="TestBodega.runtimeconfig.json">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="tr/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="zh-Hans/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:36</publishTime>
+    </File>
+    <File Include="zh-Hant/Microsoft.CodeAnalysis.resources.dll">
+      <publishTime>11/11/2020 19:14:42</publishTime>
+    </File>
+    <File Include="zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll">
+      <publishTime>11/11/2020 19:15:38</publishTime>
+    </File>
+    <File Include="zxing.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

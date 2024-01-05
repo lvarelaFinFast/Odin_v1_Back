@@ -1,0 +1,416 @@
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.json
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.exe
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.deps.json
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.json
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.dev.json
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.pdb
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.AssemblyReference.cache
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfoInputs.cache
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfo.cs
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CoreCompileInputs.cache
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\scopedcss\bundle\TestBodega.styles.css
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\TestBodega.StaticWebAssets.Manifest.cache
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.RazorTargetAssemblyInfo.cache
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CopyComplete
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\refint\TestBodega.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.pdb
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.genruntimeconfig.cache
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\ref\TestBodega.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis Varela\Desktop\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.json
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.exe
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.deps.json
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.json
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\ref\TestBodega.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.pdb
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\TestBodega.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\TestBodega.StaticWebAssets.xml
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\scopedcss\bundle\TestBodega.styles.css
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CopyComplete
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\ref\TestBodega.dll
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.pdb
+C:\Users\Usuario\Documents\Respaldo PC personal\PruebaITSense\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.genruntimeconfig.cache
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.Development.json
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.json
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.exe
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.deps.json
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.json
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.dev.json
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\ref\TestBodega.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.pdb
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Humanizer.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.AssemblyReference.cache
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfoInputs.cache
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfo.cs
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CoreCompileInputs.cache
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cs
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cache
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\TestBodega.StaticWebAssets.Manifest.cache
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\TestBodega.StaticWebAssets.xml
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\scopedcss\bundle\TestBodega.styles.css
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.RazorTargetAssemblyInfo.cache
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CopyComplete
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\ref\TestBodega.dll
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.pdb
+E:\Repo\Personal\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.genruntimeconfig.cache
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.json
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.StaticWebAssets.xml
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.exe
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.deps.json
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.json
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.dev.json
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.pdb
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.AssemblyReference.cache
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfoInputs.cache
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfo.cs
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CoreCompileInputs.cache
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\scopedcss\bundle\TestBodega.styles.css
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\TestBodega.StaticWebAssets.Manifest.cache
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\TestBodega.StaticWebAssets.Pack.cache
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\msbuild.TestBodega.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\msbuild.build.TestBodega.props
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TestBodega.props
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TestBodega.props
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.RazorTargetAssemblyInfo.cache
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CopyComplete
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\refint\TestBodega.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.pdb
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.genruntimeconfig.cache
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\obj\Debug\net5.0\ref\TestBodega.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.ReportViewer.NETCore.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\System.Resources.Extensions.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Desktop\Angular\tetinventario\TestBodega\TestBodega\bin\Debug\net5.0\zxing.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\appsettings.json
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.StaticWebAssets.xml
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.exe
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.deps.json
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.json
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.runtimeconfig.dev.json
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\TestBodega.pdb
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.ReportViewer.NETCore.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\System.Resources.Extensions.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\zxing.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.AssemblyReference.cache
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfoInputs.cache
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.AssemblyInfo.cs
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CoreCompileInputs.cache
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\scopedcss\bundle\TestBodega.styles.css
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\TestBodega.StaticWebAssets.Manifest.cache
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\TestBodega.StaticWebAssets.Pack.cache
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\msbuild.TestBodega.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\msbuild.build.TestBodega.props
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TestBodega.props
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TestBodega.props
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.RazorTargetAssemblyInfo.cache
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.csproj.CopyComplete
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\refint\TestBodega.dll
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.pdb
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\TestBodega.genruntimeconfig.cache
+C:\Users\Luis Varela\Documents\respaldoproyecto\TestBodega\TestBodega\obj\Debug\net5.0\ref\TestBodega.dll
